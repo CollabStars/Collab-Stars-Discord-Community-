@@ -16,5 +16,6 @@ Join us and become part of a friendly and respectful community focused on collab
 
 # 📜 Documentation
 The complete documentation is pinned to the Vyzer9 author repository
+ Link -> [Doc](https://github.com/Vyzer9/CollabStars)
 
 <img width="351" height="390" alt="image" src="https://github.com/user-attachments/assets/60c12ae8-1e10-47fc-a3f8-d735567939f6" />
